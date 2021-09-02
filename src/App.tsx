@@ -1,4 +1,5 @@
 import './App.css';
+import React from 'react';
 import Canvas from './components/Canvas';
 import ColorPicker from './components/ColorPicker';
 import Header from './components/Header';
