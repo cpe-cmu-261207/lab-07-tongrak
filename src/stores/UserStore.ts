@@ -6,7 +6,7 @@ type UserStorageType = {
 }
 
 export const UserStorage = new Store<UserStorageType>({
-    userSelected: "white"
+    userSelected: "#000000"
     // ,
     // userChoices: ['#000000', '#804000', '#FE0000', '#FE6A00', '#FFD800', '#00FF01', '#FFFFFF', '#01FFFF', '#0094FE', '#0026FF', '#B100FE', '#FF006E']
 })
